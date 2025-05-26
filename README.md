@@ -1,7 +1,7 @@
-# SmallEQ
+# small-eq
 
-## Opis
-FIR niskopropusni i visokopropusni filtar implementirani konvolucijom u vremenskoj domeni
+## About
+FIR low-pass and high-pass filter implemented in the time domain using convolution
 
-## Detalji
-Glavni branch: master
+## Details
+Main branch: master
